@@ -1,0 +1,31 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Dark IDE Palette (Obsidian & Electric Cyan/Violet)
+val StudioDarkBackground = Color(0xFF0D111A)
+val StudioDarkSurface = Color(0xFF141A26)
+val StudioDarkSurfaceElevated = Color(0xFF1E2638)
+val StudioDarkSurfaceVariant = Color(0xFF232D42)
+val StudioCyanPrimary = Color(0xFF00E5FF)
+val StudioCyanContainer = Color(0xFF003B46)
+val StudioVioletSecondary = Color(0xFF8C62FF)
+val StudioVioletContainer = Color(0xFF2A1B54)
+val StudioEmeraldSuccess = Color(0xFF00E676)
+val StudioAmberWarning = Color(0xFFFFAB00)
+val StudioCoralError = Color(0xFFFF5252)
+val StudioTextPrimaryDark = Color(0xFFF0F4F8)
+val StudioTextSecondaryDark = Color(0xFF9FB0C7)
+val StudioBorderDark = Color(0xFF2B3752)
+
+// Light IDE Palette (Clean Precision Daylight)
+val StudioLightBackground = Color(0xFFF4F7FB)
+val StudioLightSurface = Color(0xFFFFFFFF)
+val StudioLightSurfaceVariant = Color(0xFFE6ECF5)
+val StudioCyanPrimaryLight = Color(0xFF007B8A)
+val StudioCyanContainerLight = Color(0xFFD0F4F9)
+val StudioVioletSecondaryLight = Color(0xFF5632C7)
+val StudioVioletContainerLight = Color(0xFFE8E0FF)
+val StudioTextPrimaryLight = Color(0xFF101624)
+val StudioTextSecondaryLight = Color(0xFF4A5970)
+val StudioBorderLight = Color(0xFFCFD9E8)

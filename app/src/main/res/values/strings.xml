@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Widget Studio X</string>
+    <string name="widget_provider_description">Інтерактивний користувацький віджет, створений у Widget Studio X</string>
+    <string name="dashboard_title">Головна панель</string>
+    <string name="projects_title">Мої проєкти</string>
+    <string name="visual_editor_title">Візуальний редактор</string>
+    <string name="code_studio_title">Code Studio</string>
+    <string name="animation_studio_title">Анімаційна студія</string>
+    <string name="game_studio_title">Студія мініігор</string>
+    <string name="templates_title">Шаблони та ресурси</string>
+    <string name="plugins_title">Плагіни та розширення</string>
+    <string name="docs_title">Документація API</string>
+    <string name="logs_title">Журнал та діагностика</string>
+    <string name="settings_title">Налаштування</string>
+</resources>

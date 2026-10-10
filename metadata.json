@@ -1,0 +1,6 @@
+{
+  "name": "Widget Studio X",
+  "description": "Універсальна платформа для візуального конструювання, програмування на WidgetScript, анімації, створення мініігор та встановлення власних Android-віджетів.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
